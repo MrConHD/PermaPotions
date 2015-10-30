@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PermaPotions">
+    <output-path>$USER_HOME$/Desktop/Server1/plugins</output-path>
+    <root id="archive" name="PermaPotions.jar">
+      <element id="module-output" name="PermaPotions" />
+    </root>
+  </artifact>
+</component>

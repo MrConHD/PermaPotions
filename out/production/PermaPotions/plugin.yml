@@ -1,0 +1,9 @@
+name: PermaPotions
+author: MrConHD
+version: 1.0
+main: me.mrconhd.potions.Core
+
+commands:
+    permapotions:
+        description: Allows a user to open the interface to toggle potion effect(s)
+        aliases: [pp, status]

@@ -1,0 +1,19 @@
+inventoryTitle: "&aPotion Effects"
+toggleLore: "&aYou are currently using this effect&8!"
+
+
+
+untoggleLore: "&cYou are not currently using this effect&8!"
+
+
+
+hasteDisplayname: "&8[&9Haste&8]"
+speedDisplayname: "&8[&9Speed&8]"
+strengthDisplayname: "&8[&9Strength&8]"
+jumpDisplayname: "&8[&9Jump&8]"
+nightDisplayname: "&8[&9Night&8]"
+saturationDisplayname: "&8[&9Saturation&8]"
+fireDisplayname: "&8[&9Fire Resistance&8]"
+
+untoggleMessage: "&8[&cEFFECTS&8] &cEffect untoggled!"
+toggleMessage: "&8[&cEFFECTS&8] &aEffect toggled!"
